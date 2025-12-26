@@ -1,6 +1,6 @@
 # 🛸 MAVSDK-C++ ve PX4 Gazebo Simülasyon Rehberi
 
-Bu rehber, **Çelebi İHA Takımı** yazılım geliştirme süreçleri için Ubuntu (22.04/24.04) üzerinde MAVSDK-C++, PX4 Autopilot ve Gazebo Simülatörü kurulumunu ve kullanımını kapsayan uçtan uca bir kılavuzdur.
+Bu rehber, **Hezarfen İHA Takımı** yazılım geliştirme süreçleri için Ubuntu (22.04/24.04) üzerinde MAVSDK-C++, PX4 Autopilot ve Gazebo Simülatörü kurulumunu ve kullanımını kapsayan uçtan uca bir kılavuzdur.
 
 ---
 
